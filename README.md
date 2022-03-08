@@ -1,6 +1,6 @@
 # gittest
 
-
+Modified by David Hrbáč
 
 ## Getting started
 
